@@ -1,0 +1,75 @@
+.présentation{
+	background-image: url("me.jpg");
+	background-size: cover;
+	height: 700px;
+}
+h1{
+	margin-top: 300px;
+	font-family: serif;
+	font-size: 100px;
+}
+.diplomes{
+	width: 400px;
+	height: 30px;
+	color: black;
+	background-color: lightblue;
+	margin-top: -20px;
+	margin-left: 500px;
+	text-align: center;
+}
+.compétences{
+	width: 400px;
+	height: 30px;
+	color: black;
+	background-color: lightblue;
+	margin-top: 100px;
+	margin-left: 500px;
+	text-align: center;
+}
+.word{
+	background-color: darkblue;
+	margin-top: 100px;
+	width: 800px;
+	margin-left: 100px;
+}
+img{
+	width: 100px;
+	height: 50px;
+}
+.pp{
+	background-color: darkgray;
+	margin-top: 30px;
+	width: 800px;
+	margin-left: 150px;
+}
+.ps{
+	background-color: red;
+	margin-top: 30px;
+	width: 800px;
+	margin-left: 200px;
+}
+.html{
+	background-color: pink;
+	margin-top: 30px;
+	width: 800px;
+	margin-left: 250px;
+}
+.css{
+	background-color: darkgray;
+	margin-top: 30px;
+	width: 800px;
+	margin-left: 300px;
+}
+.gris{
+	width: 400px;
+	height: 30px;
+	color: black;
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-left: 500px;
+	text-align: center;
+}
+.cnt{
+	color: black;
+	font-size: 35px;
+}
